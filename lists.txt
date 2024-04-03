@@ -17,3 +17,7 @@ Normal school blocked things (games, 18+, ai, etc):
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Game.txt
 https://raw.githubusercontent.com/8layer8/pihole-games-list/main/games.txt
+
+
+Whitelists:
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Whitelist-Modules/whitelist_for_facebook.txt
