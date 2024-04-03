@@ -1,0 +1,47 @@
+Normal school blocking (games, porn, ai, etc):
+.*game*
+.*ai*
+.*roblox*
+.*sex*
+.*porn*
+.*xxx*
+.*redtube*
+.*xnxx*
+.*chat*
+.*gpt*
+.*xbox*
+.*rockstar*
+.*proxy* #prevent bypassing
+.*vpn*
+.*nvidia*
+.*geforce*
+.*steam*
+.*valve*
+.*battle*
+.*unity3d*
+.*gog*
+.*ddns*
+.*huggingface*
+.*spotify* #optional 
+.*nowgg*
+.*gemini*
+.*copilot*
+.*bing*
+.*emulator*
+.*emulate*
+.*csgo*
+.*bot*
+
+Ads:
+.*amp*
+.*doubleclick*
+
+Whitelist for school:
+.*prodigygame*
+.*math*
+.*canva*
+.*commonlit*
+.*ixl*
+.*duolingo*
+.*keystoneschoolonline*
+.*youtube* #optional
