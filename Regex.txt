@@ -20,17 +20,17 @@ Normal school blocking (games, porn, ai, etc):
 .*battle* #gaming
 .*unity3d* #gaming
 .*gog* #gaming
-.*ddns* 
+.*ddns* #bypass
 .*huggingface*
 .*spotify* #optional 
-.*nowgg*
-.*gemini*
-.*copilot*
-.*bing*
-.*emulator*
-.*emulate*
-.*csgo*
-.*bot*
+.*nowgg* #gaming
+.*gemini* #ai
+.*copilot* #ai
+.*bing* #ai
+.*emulator* #gaming
+.*emulate* #gaming
+.*csgo* #gaming
+.*bot* #gaming
 
 Ads:
 .*amp*
