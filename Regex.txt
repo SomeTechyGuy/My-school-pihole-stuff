@@ -1,26 +1,26 @@
 Normal school blocking (games, porn, ai, etc):
-.*game*
-.*ai*
-.*roblox*
-.*sex*
-.*porn*
-.*xxx*
-.*redtube*
-.*xnxx*
-.*chat*
-.*gpt*
-.*xbox*
-.*rockstar*
-.*proxy* #prevent bypassing
-.*vpn*
-.*nvidia*
-.*geforce*
-.*steam*
-.*valve*
-.*battle*
-.*unity3d*
-.*gog*
-.*ddns*
+.*game* #gaming
+.*ai* #ai
+.*roblox* #gaming
+.*sex* #18+
+.*porn* #18+
+.*xxx* #18+
+.*redtube* #18+
+.*xnxx* #18+
+.*chat* #ai
+.*gpt* #ai
+.*xbox* #gaming
+.*rockstar* #gaming
+.*proxy* #bypass
+.*vpn* #bypass
+.*nvidia* #gaming
+.*geforce* #gaming
+.*steam* #gaming
+.*valve* #gaming
+.*battle* #gaming
+.*unity3d* #gaming
+.*gog* #gaming
+.*ddns* 
 .*huggingface*
 .*spotify* #optional 
 .*nowgg*
