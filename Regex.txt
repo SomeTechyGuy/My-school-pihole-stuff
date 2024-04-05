@@ -31,6 +31,16 @@ Normal school blocking (games, porn, ai, etc):
 .*emulate.* #gaming
 .*csgo.* #gaming
 .*bot.* #gaming
+.*llm.* #ai
+.*archive.* #everything a school wont want
+.*gaming.* #gaming
+.*minecraft.* #gaming
+.*fmhy.* #ai
+.*freemediaheckyeah.* #ai
+.*replit.*	#bypass
+.*play.* #gaming
+.*bypass.* #bypass
+.*hypertab.* #bypass
 
 Ads:
 .*amp*
