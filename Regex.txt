@@ -1,6 +1,5 @@
 Normal school blocking (games, porn, ai, etc):
 .*game.* #gaming
-.*ai.* #ai
 .*roblox.* #gaming
 .*sex.* #18+
 .*porn.* #18+
@@ -41,6 +40,7 @@ Normal school blocking (games, porn, ai, etc):
 .*play.* #gaming
 .*bypass.* #bypass
 .*hypertab.* #bypass
+.*lmsys.* #ai
 
 Ads:
 .*amp*
