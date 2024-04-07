@@ -36,7 +36,7 @@ Normal school blocking (games, porn, ai, etc):
 .*minecraft.* #gaming
 .*fmhy.* #piracy
 .*freemediaheckyeah.* #piracy
-.*replit.*	#bypass
+.*replit.* #bypass
 .*play.* #gaming
 .*bypass.* #bypass
 .*hypertab.* #bypass
