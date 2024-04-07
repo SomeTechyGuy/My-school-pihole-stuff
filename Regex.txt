@@ -41,6 +41,8 @@ Normal school blocking (games, porn, ai, etc):
 .*bypass.* #bypass
 .*hypertab.* #bypass
 .*lmsys.* #ai
+.*proxies.* #bypass
+.*tunnelbroker.* #bypass
 
 Ads:
 .*amp*
