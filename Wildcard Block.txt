@@ -103,5 +103,5 @@ minecraft.de
 newgrounds.com
 archive.org
 translate.goog
-turbopages.org #bypass
-you.com #ai
+turbopages.org
+you.com
