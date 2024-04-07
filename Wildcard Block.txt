@@ -42,12 +42,12 @@ ubisoft.com #gaming
 gamejolt.com #gaming
 steam.com #gaming
 steampowered.com #gaming
-hypixel.net
-mincraft.com
-minecraft.net
-minecraft.de
-newgrounds.com
-archive.org
-translate.goog
-turbopages.org
-you.com
+hypixel.net #gaming
+mincraft.com #gaming
+minecraft.net #gaming
+minecraft.de #gaming
+newgrounds.com #gaming
+archive.org #bypass, gaming, piracy, 18+
+translate.goog #bypass
+turbopages.org #bypass
+you.com #ai
