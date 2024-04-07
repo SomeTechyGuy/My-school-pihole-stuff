@@ -34,8 +34,8 @@ Normal school blocking (games, porn, ai, etc):
 .*archive.* #everything a school wont want
 .*gaming.* #gaming
 .*minecraft.* #gaming
-.*fmhy.* #ai
-.*freemediaheckyeah.* #ai
+.*fmhy.* #piracy
+.*freemediaheckyeah.* #piracy
 .*replit.*	#bypass
 .*play.* #gaming
 .*bypass.* #bypass
