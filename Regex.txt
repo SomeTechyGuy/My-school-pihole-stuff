@@ -45,15 +45,15 @@ Normal school blocking (games, porn, ai, etc):
 .*tunnelbroker.* #bypass
 
 Ads:
-.*amp*
-.*doubleclick*
+.*amp.*
+.*doubleclick.*
 
 Whitelist for school:
-.*prodigygame*
-.*math*
-.*canva*
-.*commonlit*
-.*ixl*
-.*duolingo*
-.*keystoneschoolonline*
-.*youtube* #optional
+.*prodigygame.*
+.*math.*
+.*canva.*
+.*commonlit.*
+.*ixl.*
+.*duolingo.*
+.*keystoneschoolonline.*
+.*youtube.* #optional
